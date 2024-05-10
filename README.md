@@ -11,6 +11,6 @@ This seminar is designed to provide with a breif guide on creating impactful por
 
   ## Next Actions:
   
-1. Create an Issue: Scan the QR code below to create an issue on the GitHub repository.
+1. Create an Issue: Create an issue on this repository.
 2. Portfolio Link: Include the link to your portfolio website.
 3. 10 Clients Documentation: Capture the journey with your first 10 clients, including first call, discovery, deal, MVP, and subsequent versions.
